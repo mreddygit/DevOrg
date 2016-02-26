@@ -3,5 +3,6 @@ public class gitController{
 	public string cname;
 	public string lname;
 	public string fname;
+	public string title;
 
 }
